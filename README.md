@@ -23,7 +23,7 @@ Hi, I'm **GouC** — an undergraduate majoring in SE,
 
 ## 📫 Contacts
 
-- 📧 Email: `[Email](mailto:wiwjs22b@gmail.com)`
+- 📧 Email: [Email](mailto:wiwjs22b@gmail.com)
 - 🌐 GitHub: [Profile](https://github.com/GouCYou)
 
 ---
