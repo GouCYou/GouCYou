@@ -1,13 +1,33 @@
-## 👋 Hi, I'm GouC
+## 👋 Hi there 👋
 
-I'm a software engineering undergraduate student from China 🇨🇳, currently studying and practicing modern software development.
+Hi, I'm **GouC** — an undergraduate majoring in SE,  
 
-Most of my course projects will be open-sourced and maintained here on GitHub. I enjoy building practical systems, exploring clean architectures, and improving projects step by step rather than just finishing assignments.
+---
 
-I'm also a **Minecraft server owner**, with a strong interest in Minecraft server technologies — including server performance tuning, plugin development, backend services, and infrastructure-related topics. Running a server has helped me better understand real-world problems such as system stability, scalability, and user experience.
+## 🧰 Stacks
 
-In addition to coding and gaming, I keep an eye on technology news and trends, especially in software engineering, cloud services, and developer tooling.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
-Although I'm still early in my journey, my long-term goal is to grow into a capable software engineer who builds reliable, well-designed systems — and eventually become someone who can create things others genuinely enjoy and depend on.
+---
 
-📫 You can reach me here on GitHub.
+## 🌱 Interests
+
+- Backend development with **Java or Python**
+- Building modern frontend apps with **Vue + TypeScript**
+- Minecraft Development with **Paper**
+
+---
+
+## 📫 Contacts
+
+- 📧 Email: `[Email](mailto:wiwjs22b@gmail.com)`
+- 🌐 GitHub: [Profile](https://github.com/GouCYou)
+
+---
+
+> ℹ️ **Note**  
+> This README is still under construction.  
+> More projects and details will be added gradually.
