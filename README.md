@@ -28,6 +28,6 @@ Hi, I'm **GouC** — an undergraduate majoring in SE,
 
 ---
 
-> ℹ️ **Note**  
+> [!NOTE]
 > This README is still under construction.  
 > More projects and details will be added gradually.
