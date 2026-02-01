@@ -16,14 +16,6 @@ Hi, I'm **GouC** — an undergraduate majoring in SE.
 
 ---
 
-## 🌱 Interests
-
-- Backend development with **Java or Python**
-- Building frontend apps with **Vue**
-- Minecraft Development with **Paper**
-
----
-
 ## 📫 Contacts
 
 - 📧 Email: [Email](mailto:wiwjs22b@gmail.com)
